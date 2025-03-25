@@ -42,3 +42,4 @@ Replace these placeholder files with your own graphics.
 - Add different types of food with special effects
 - Add animations for snake movement
 - Create different game modes (time attack, maze, etc.)
+# ekans
